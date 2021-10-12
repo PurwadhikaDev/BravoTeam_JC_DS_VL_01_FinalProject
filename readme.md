@@ -9,6 +9,6 @@ Dataset: aug_train.csv
 
 Source: https://www.kaggle.com/arashnic/hr-analytics-job-change-of-data-scientists
 
-We encourage you to see click this link below to start the journey:
+We encourage you to click this link below to start the journey:
 
 https://github.com/PurwadhikaDev/BravoTeam_JC_DS_VL_01_FinalProject/blob/main/01_Background.ipynb
